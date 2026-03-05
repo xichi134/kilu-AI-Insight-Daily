@@ -3,95 +3,122 @@ linkTitle: AI Daily
 title: AI Daily-AI资讯日报
 breadcrumbs: false
 comments: true
-next: /en/2026-03/2026-03-03
-description: Your daily source for curated AI news, practical tools, and actionable
-  tutorials to master Artificial Intelligence;
+next: /2026-03/2026-03-04
+description: "个人每日整理的AI资讯站。我们为您过滤信息噪音，只提供最精选的AI新闻、最实用的AI工具与AI教程，助您高效获取人工智能领域的前沿动态"
 cascade:
   type: docs
 ---
-## AI News Daily 2026/3/4
 
-> `AI News` | `Daily Morning Read` | `Aggregated Web Data` | `Cutting-Edge Science Exploration` | `Industry Voice` | `Open Source Innovation Power` | `AI and the Future of Humanity` | [Visit Web Version ↗️](https://ai.hubtoday.app/) | [Join Group Chat 👋](https://source.hubtoday.app/logo/wechat-qun.jpg)
+## AI资讯日报 2026/3/5
 
-### **Today's Digest**
+>  `AI资讯` | `每日早读` | `全网数据聚合` | `前沿科学探索` | `行业自由发声` | `开源创新力量` | `AI与人类未来` | [访问网页版↗️](https://ai.hubtoday.app/) | [进群交流🤙](https://source.hubtoday.app/logo/wechat-qun.jpg)
 
-*   **GPT-5.3 Instant** just dropped, **Qwen 3.5** opens its quantized weights, and **Claude Code** now rocks a voice mode!
-*   **Monkey neurons** are being used to create miniature AI brains, while the **brain-inspired N3 architecture** now boasts 130 million neurons.
-*   **NVIDIA GTC** has been set, and **Anthropic's clash with the Pentagon** is heating up.
-*   An **OpenAI** inference legend jumps ship to **Anthropic**, and **Claude's hallucinations** accidentally led to a Vercel misdeployment. Yikes!
-*   **Alibaba** unveils its open-source **OpenSandbox**, solidifying **Qwen** as a core tech foundation for China.
+### **今日摘要**
 
-### Product & Feature Updates
+```
+GPT-5.4百万窗口极限推理,Gemini 3.1 Flash-Lite日均亿次推理,Codex登陆Windows
+阿里Qwen负责人离职,OpenAI洽谈北约防务合同,自研代码托管平台
+MIT脑机接口智能体,李飞飞3D世界生成,港大FastCode提升代码推理
+AI黑客Shannon成功率96%,开源搜索Perplexica,虚拟主播AIRI登顶热榜
+Anthropic CEO炮轰OpenAI,2022年前数据成AI净土,提示词本质是业务逻辑
+```
 
-1.  **OpenAI's GPT-5.3 Instant** just dropped its shiny new [GPT-5.3 Instant (AI News)](https://openai.com/index/gpt-5-3-instant/) version! 👋 Say goodbye to verbose, preachy styles. Its web search accuracy is supercharged 🔥, and hallucination rates are way down 🛡️, making it extra reliable. Get the full scoop [here (AI News)](https://x.com/dotey/status/2028897907198603495)!
+### 产品与功能更新
 
-2.  Good news! Alibaba's 🔥 **Qwen 3.5** series [quantized weights (AI News) are now available](https://huggingface.co/collections/Qwen/qwen35)! They're rocking **GPTQ-Int4**, which means they're super memory-efficient. 🚀 Plus, they natively support the **vLLM** inference acceleration framework. You can also snag them on [ModelScope (AI News)](https://modelscope.cn/collections/Qwen/Qwen35). Even folks with limited graphics cards ⚡️ can now run these powerful models! How cool is that?
+1. **OpenAI曝光GPT-5.4新模型。**
+最新消息显示🚀**GPT-5.4**即将亮相。支持**百万级窗口**搭配(✧∀✧)极限推理。能连续💡深度思考超长时间任务。性能据说比**Codex-5.3**还猛🔥。[点击了解详情（AI资讯）](https://x.com/op7418/status/2029220155163853064)别错过。<br/>![AI资讯：GPT-5.4百万上下文窗口与极限推理模式架构蓝图](https://source.hubtoday.app/images/2026/03/news_01kjxrm3g8esnrjjhbfc4706ex.avif)<br/>
 
-3.  **Samsung's Galaxy S26** just made a huge splash 🚀 at **MWC 2026**! The entire lineup has undergone a deep evolution, now featuring **Agentic AI** that proactively serves users. This means a fully integrated 💡 **AI ecosystem**. Hit up the [official Samsung (AI News) press release](https://news.samsung.com/us/samsung-advances-galaxy-ai-connected-ecosystem-mwc-2026/) for all the deets!
+2. **谷歌推出Gemini 3.1 Flash-Lite。**
+谷歌正式发布🚀**Gemini 3.1 Flash-Lite**版本。主打(✧∀✧)极致速度处理流水线任务。让AI每天能跑🔥**一亿次**推理请求。[查看发布详情（AI资讯）](https://x.com/frxiaobei/status/2029202477275652489)相当炸裂。大幅降低💡代理调用的成本开支。
 
-4.  Hold up! **Honor** totally stole the show at MWC 2026, unveiling its [new product line (AI News) for embodied AI](https://www.eqs-news.com/news/corporate/honor-advances-its-ai-vision-at-mwc-2026-with-robot-phone-humanoid-robot-and-magic-v6/b4c8de92-cd43-439c-ba20-094164ccb4a6_en)! Check out their 🤖 **robot phone**, complete with a foldable gimbal. But wait, there's more – they also dropped a 🔥 **humanoid robot** that blew everyone away! The **Magic V6** and other flagship devices launched concurrently. Honor is seriously kicking its **ALPHA PLAN** strategy into high gear ⚡.
+3. **Perplexity上线语音交互模式。**
+Perplexity🚀正式上线**语音模式**功能。用户可直接🗣️语音操作搜索引擎。[了解该重大进展（AI资讯）](https://x.com/perplexity_ai/status/2029302896026853379)超丝滑。交互体验(✧∀✧)真的离谱到没边。搜索🔥交互范式正在发生巨变。
 
-5.  **Anthropic's Claude Code** just got a wicked upgrade 🚀 with a new **voice mode**! Now, engineers can literally just talk to code 🗣️. Voice commands 🔥 directly generate **logic algorithms**, making this [voice programming tool (AI News)](https://techcrunch.com/category/artificial-intelligence/) incredibly efficient. Despite some controversy 🤔, its popularity has absolutely skyrocketed 💡!
+4. **Codex App正式登陆Windows。**
+🚀**Codex**现已适配[Windows桌面端（AI资讯）](https://x.com/dotey/status/2029308744795082981)系统。原生支持**WSL**环境(✧∀✧)极其丝滑。内置🔥**智能体沙盒**权限安全受控。新增**WinUI**等专属技能搞定💡全栈。团队还在火热**招聘全栈大神**快投。<br/>![AI资讯：OpenAI Codex App适配Windows系统的原生运行界面](https://source.hubtoday.app/images/2026/03/news_01kjxrmj23esnrjjhpbbq5jzq1.avif)<br/>
 
-### Cutting-Edge Research
+5. **OpenAI自研代码托管平台。**
+OpenAI🚀正秘密开发[自有托管平台（AI资讯）](https://x.com/dotey/status/2029035380448673941)。目的是解决GitHub(✧∀✧)频繁断联问题。该项目早期🔥先在**内部试用**验证。未来不排除将**代码底座**对外销售。微软与OpenAI关系💡恐生新变数。<br/>![AI资讯：OpenAI正在研发替代GitHub的代码托管平台概念图](https://source.hubtoday.app/images/2026/03/news_01kjxrmtg3esnrjjhtyd1tebt2.avif)<br/>
 
-1.  Mind blown! 🤯 Scientists are reshaping AI algorithms using **monkey neurons**, shrinking models down to [one-thousandth of their original size (AI News)](https://www.npr.org/2026/03/03/nx-s1-5729433/ai-brain-monkey-neurons)! This breakthrough showcases the ultimate efficiency of biological brains. The findings are officially published in 🔥 **Nature**, kicking off a whole new era for low-power AI systems.
+### 前沿研究
 
-2.  Big news for **brain-inspired N3 architecture**! Check out the [project homepage (AI News)](https://github.com/catalyst-neuromorphic). This bad boy now boasts a whopping 130 million neurons 🧠 and its performance is totally rivaling dedicated **Intel chips** 🔥. Dive into the [academic report (AI News)](https://doi.org/10.5281/zenodo.18728256) for more. The team is currently on the hunt for commercial funding and partnerships 🚀.
+1. **MIT发布脑机接口智能体。**
+MIT发布🚀**NeuroSkill**全新架构。它能感知(✧∀✧)人类**情绪变化**信号。融合🔥[脑机接口系统（AI资讯）](https://arxiv.org/abs/2603.03212)数据。全程**离线运行**且极其懂你。[查看原始论文（AI资讯）](https://x.com/omarsar0/status/2029294279600787932)感知隐性需求。<br/>![AI资讯：MIT NeuroSkill脑机接口Agent系统架构图](https://source.hubtoday.app/images/2026/03/news_01kjxrn2gwesnrjjj1z9430d0y.avif)<br/>
 
-3.  The **University of Texas** is currently hosting a top-tier 🤖 **Robotics and AI Symposium**! Big shots from all over are gathering to chat about **Agent AI**. The focus is on 🚀 [cutting-edge ethics and healthcare (AI News)](https://ai.utexas.edu/events/2026-03-03/texas-symposium-machine-learning-responsible-ai-robotics) topics, including how AI is 🔥 **accelerating scientific discovery**. Together, they're exploring transformations in the future **work landscape**.
+2. **李飞飞World Labs生成3D世界。**
+李飞飞🚀定义**3D为空间代码**概念。(✧∀✧)Marble模型能🌍**自动生成3D世界**。Chisel技术🔥实现**布局样式分离**。空间创作✨进入**可编程时代**阶段。[查看更多详情（AI资讯）](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651019507&idx=2&sn=9f156b802d4302b86d8f9e14ae1af751)就在这。<br/>![AI资讯：World Labs展示Marble模型3D世界生成效果](https://source.hubtoday.app/images/2026/03/news_01kjxrn830esnrjjjcna8xsx56.avif)<br/>
 
-4.  Heads up! 🛡️ **AI inference security** is emerging as a major new threat in 2026. Hackers are now 🚀 aggressively targeting cloud systems to steal **core intellectual property**. Get the [full breakdown (AI News)](https://thequantuminsider.com/2026/03/03/securing-ai-inference-the-overlooked-security-frontier-in-2026/) here. ⚠️ Just focusing on the **training phase** isn't enough anymore! Everyone needs to 🔥 rapidly beef up their defense for the **inference stage**!
+3. **上海实验室破解多智能体黑盒。**
+上海AI实验室🚀发布[多智能体解释框架（AI资讯）](https://arxiv.org/pdf/2601.20538)。运用**沙普利值**解密(✧∀✧)系统黑盒。成功揪出诱发崩溃的🔥**高危智能体**。揭示了**羊群效应**等五大演化规律。[获取开源代码（AI资讯）](https://github.com/mjl0613ddm/IEEE)助力防御。<br/>![AI资讯：多智能体系统风险归归因分析与沙普利值分解模型](https://source.hubtoday.app/images/2026/03/news_01kjxrncwkesnrjjjmvtrhtmc1.avif)<br/>
 
-5.  A new study from **Brown University** just dropped a not-so-rosy conclusion 😬 about AI. Due to a lack of **emotional understanding**, AI simply can't handle complex issues, performing worse than even a **professional human doctor** 👩‍⚕️. Check out the full [research report (AI News)](https://www.usnews.com/news/health-news/articles/2026/03/03/ai-therapist-it-falls-short-a-new-study-warns). Experts are calling for 🔥 stronger regulation of **medical AI**.
+4. **李飞飞团队评估具身空间认知。**
+🚀李飞飞团队联手发布[空间理论论文（AI资讯）](https://arxiv.org/abs/2602.07055)。评估模型(✧∀✧)**认知地图**构建能力。发现AI在🔥**主动探索**时表现很拉。面对新变化模型常💡**固执己见**不改。[访问项目主页（AI资讯）](https://theory-of-space.github.io/)获取源码。<br/>![AI资讯：李飞飞团队提出的空间理论ToS评估框架架构图](https://source.hubtoday.app/images/2026/03/news_01kjxrnj2pesnrjjjsbdcctpb4.avif)<br/>
 
-### Industry Outlook & Social Impact
+5. **港大FastCode提升代码推理。**
+港大推出🚀[FastCode高效框架（AI资讯）](https://arxiv.org/abs/2603.01012)。侦察机制(✧∀✧)取代**全文本检索**方式。能够精准🔍追踪**代码依赖**关系。大幅🔥降低**Token消耗**且更准确。源码已在[开源社区（AI资讯）](https://github.com/HKUDS/FastCode)发布。
 
-1.  Get ready! NVIDIA has officially announced 🚀 **GTC 2026** is locked in for San Jose! Jensen Huang will be delivering the keynote on the [conference main stage (AI News)](https://nvidianews.nvidia.com/news/nvidia-ceo-jensen-huang-and-global-technology-leaders-to-showcase-age-of-ai-at-gtc-2026). The event will spotlight **physical AI** and **agent systems**, with 30,000 big names exploring the **AI factory**. Prepare to witness 💡 **accelerated computing** usher in a new era!
+### 行业展望与社会影响
 
-2.  Woah! The **Trump administration** is reportedly using 🚀 Claude to aid military operations, with AI helping to identify precise strike targets. A [Guardian in-depth (AI News) report](https://www.theguardian.com/commentisfree/2026/mar/03/trump-using-ai-to-fight-wars-dangerous-us-military) has sparked major concern, and the ethical 🔥 risks are causing heated debates across the net. AI is truly becoming a disquieting **tool of war**.
+1. **阿里通义千问负责人辞职。**
+阿里巴巴🚀**Qwen**负责人正式宣布离职。据[路透社报道（AI资讯）](https://www.reuters.com/world/asia-pacific/head-alibabas-qwen-ai-division-resigns-2026-03-04/)这是又一核心高管出走。目前(✧∀✧)**通义千问**大模型业务运转正常。行业高层人才🌊流动正变得异常频繁。AI领军人物🔥争夺战愈演愈烈。
 
-3.  Things are getting tense! **Anthropic** and the Pentagon 🚀 have had a [serious disagreement (AI News) erupt](https://fortune.com/2026/03/03/the-pentagons-fight-with-anthropic-was-the-first-real-test-for-how-we-will-control-powerful-ai-the-bad-news-we-all-failed/), leading to **Claude** being banned 🚩 due to ethical clauses. Multiple departments have ceased using the **AI system**. It's now admitted that the protocol was set up way too hastily. The governance of **military AI** is facing a truly tough test 😬.
+2. **阿里通义大会回应团队剧变。**
+**阿里通义**内部会(✧∀✧)猛料不断涌出。官方称🚀[Qwen大模型（AI资讯）](https://x.com/dotey/status/2029085242980499460)乃集团头等大事。吴妈为**算力分配**延迟🔥深表歉意。官方强硬表态💔不接受非理性挽留。组织正面临残酷的**阵型调整**阶段。
 
-4.  Boom! **Santander Bank** has completed 🏦 [Europe's first AI agent payment (AI News)](https://fintechmagazine.com/news/santander-and-mastercard-complete-first-ai-payment)! The **AI agent** successfully executed an autonomous transaction. The financial sector is clearly pivoting hard 🚀 towards intelligent agents. This pilot program has 🔥 significantly **reduced operational costs**, proving agent payments are totally headed for the mainstream!
+3. **OpenAI洽谈北约防务合同。**
+OpenAI🚀正密谋与**北约**签署大单。(✧∀✧)该[合作协议（AI资讯）](https://www.reuters.com/technology/openai-looking-contract-with-nato-source-says-2026-03-04/)主攻防务领域。早前已和🔥**五角大楼**达成深度合作。技术涉及🚀**联盟级**跨国AI应用。严禁用于**国内监控**保护公民隐私。
 
-5.  **China's AI development** in 2026 is looking wild! The domestic **core industry scale** has already blown past one trillion yuan. Open-source large models have seen over ten billion downloads 🚀. Dive into [Tsinghua's forward-looking (AI News) report](https://www.tsinghua.edu.cn/info/1182/124190.htm) for all the deets. Six thousand enterprises are 🔥 deeply empowering manufacturing, solidifying China's status as a major **AI patent powerhouse** 🌟.
+4. **Intercom靠AI客服实现亿级转型。**
+昔日大佬🔥Intercom这波(✧∀✧)真稳了。舍弃**六千万营收**换[全面AI转型（AI资讯）](https://x.com/vista8/status/2029138552647500092)。核心**Fin客服**🚀已让营收突破亿元。传统SaaS企业必须得💡积极拥抱变革。AI原生商业模式正在🔥重塑行业。
 
-6.  **Encord** just snagged 🚀 [60 million USD (AI News) in Series C funding](https://theaiinsider.tech/2026/03/03/encord-announces-60m-series-c-to-expand-ai-native-data-infrastructure-for-real-world-applications/)! This cash infusion will accelerate their mission to build 🔥 **AI-native data infrastructure**, helping models land in real-world scenarios. Veteran investor **YC** is still strongly backing them. They're laser-focused on solving the **pain points** of AI deployment.
+5. **全球首个自主科研智能体挑战赛。**
+上智院携手复旦🚀启动[科学智能大赛（AI资讯）](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2652680064&idx=2&sn=ae8c0439f07ed73e8ae998de8d5d58f4)。**科研智能体**需(✧∀✧)零人工干预挑战顶刊。独立完成文献理解🔥与代码重构全闭环。四大任务直指**CNS级别**科研突破。超级科研💡合伙人正在定义未来。<br/>![AI资讯：AI4S科学智能挑战赛启动仪式现场](https://source.hubtoday.app/images/2026/03/news_01kjxrnr3yesnrjjk19qnpg9td.avif)<br/>
 
-### Top Open Source Projects
+### 开源TOP项目
 
-1.  This [wireless sensing open source project (AI News)](https://github.com/ruvnet/RuView), **RuView**, is seriously cool 🚀! It uses only WiFi signals – no cameras needed – to 💡 **real-time estimate** human posture. It can even 🔥 monitor faint **vital sign** data! The signals are transformed into **high-precision** models, offering much better privacy and security 🚀 than traditional camera setups.
+1. **自主AI黑客Shannon登场。**
+自主🚀**AI黑客**Shannon正式降临开源社区。专门💻挖掘**网页安全漏洞**超猛。成功率(✧∀✧)竟然高达**96.15%**惊人。攻防🔥逻辑实在**强悍**到没边。[获取项目源码（AI资讯）](https://github.com/KeygraphHQ/shannon)速去体验。
 
-2.  Alibaba has just launched 🚀 its [general AI sandbox (AI News)](https://github.com/alibaba/OpenSandbox) platform, **OpenSandbox**! This bad boy ⭐ supports integration with **multiple language SDKs** and focuses on scenarios for 🚀 **coding and GUI agents**. It offers a unified **Docker and K8s** interface, making AI 💻 **code execution** way safer and more efficient. Pretty neat, huh?
+2. **Perplexica智能搜索引擎开源。**
+这款🚀项目是[开源搜索引擎（AI资讯）](https://github.com/ItzCrazyKns/Perplexica)平替方案。能(✧∀✧)精准获取**核心知识**数据。它是🔥搜索领域的**强力开源工具**。期待它能改变💡**搜索体验**范式。Perplexity用户必看的替代选择。
 
-3.  **Superset** has just arrived 🚀, tailor-made for AI development! This [agent development powerhouse (AI News)](https://github.com/superset-sh/superset) is packed with features, perfectly 🔥 controlling interfaces for **various models**. It's like having a super-powered assistant 🚀 for developers! Seriously, go give it a ⭐ on GitHub!
+3. **极简AI助手NullClaw开源。**
+Zig语言🚀打造的[NullClaw极简框架（AI资讯）](https://x.com/shao__meng/status/2029192537819537700)来了。运行仅需🔥**678KB体积**零依赖。(✧∀✧)支持**廉价开发板**秒速启动。对接🚀**全平台**及主流大语言模型。解决臃肿痛点实现💡**极轻量**部署。<br/>![AI资讯：NullClaw极简AI助手678KB轻量级架构示意图](https://source.hubtoday.app/images/2026/03/news_01kjxrnv3kesnrjjk8bhmsmken.avif)<br/>
 
-4.  Check it out! The 🚀 [ultra-fast KV cache (AI News)](https://github.com/LMCache/LMCache) project, **LMCache**, is here! This bad boy instantly **doubles** model inference speeds and dramatically slashes 🔥 **memory usage**, effectively eliminating latency. This distributed caching solution is seriously powerful. Devs, go ⭐ Star this tool ASAP!
+4. **电子老婆AIRI项目登顶热榜。**
+开源项目**AIRI**🚀登顶GitHub热榜第一。这是性能(✧∀✧)炸裂的[虚拟主播项目（AI资讯）](https://github.com/moeru-ai/airi/)。玩家能实现🔥**自托管**独立部署。支持语音交互并能💡**陪玩游戏**。兼容**DeepSeek**等主流模型超方便。<br/>![AI资讯：AIRI开源虚拟主播自托管界面演示截图](https://source.hubtoday.app/images/2026/03/news_01kjxrp03besnrjjkjzn0hyw0m.avif)<br/>
 
-5.  Alibaba has open-sourced 🚀 the **AgentScope** framework, making multi-agent collaboration 🔥 way more transparent through its [project source code (AI News)](https://github.com/agentscope-ai/agentscope)! It tackles those tricky, unseen interaction challenges and lets you quickly build ⭐ **high-performance AI agent** applications. Every agent developer needs to keep an eye on this one!
+### 社媒分享
 
-### Social Media Buzz
+1. **Anthropic CEO炮轰OpenAI。**
+Anthropic掌门人🔥公开批评竞对搞演戏。He称拒绝给特朗普🚀**政治站队**(✧∀✧)。揭露竞对**巨额捐款**买政策门票。坚持实话直说💡AI致**失业问题**严重。[查看原文（AI资讯）](https://x.com/dotey/status/2029330655633363452)痛批五角大楼合作太虚。<br/>![AI资讯：Anthropic CEO公开批评OpenAI与特朗普政府关系声明](https://source.hubtoday.app/images/2026/03/news_01kjxrp55hesnrjjkz5dsnrswq.avif)<br/>
 
-1.  Whoa, big news! OpenAI's 🚀 inference legend, **Max Schwarzer**, has officially announced his departure. This guy spearheaded the development of the **o1 inference model** and **GPT-5**! Now, this key figure is joining rival [Anthropic (AI News)](https://x.com/dotey/status/2028957497076142080) to focus on cutting-edge 🔥 **reinforcement learning** research, steering clear of management. This brain drain could have a seriously deep impact 😲 on OpenAI.
+2. **MCP协议与Agent技能之争。**
+**MCP**协议🚀竟已稳健运行整整一年。**Agent**核心基础💡始终还是技能堆叠。**OpenClaw**强在(✧∀✧)技能组合很全面。业界对协议🔥寿命存在激烈争论。速看[这场精彩博弈（AI资讯）](https://x.com/dotey/status/2029277201250631784)吧。
 
-2.  Talk about a oopsie! **Claude** actually 🚀 fabricated a **GitHub repository ID** out of thin air, leading to unknown code 🔥 going live on **Vercel**! [Details here (AI News)](https://x.com/dotey/status/2028934937894653976) confirm it was a misdeployment – not a hacker attack, but an **agent's** blunder. This technical hallucination 💡 created a very real **security risk** 🚨. Wild!
+3. **2022年前数据成AI时代净土。**
+2022年🚀前的数据是纯净钢铁。人类🔥最后一批**原始信息**资产。此后内容均被(✧∀✧)AI深度渗透。创作风格正😱发生隐形污染变异。[阅读原文洞察（AI资讯）](https://x.com/emollick/status/2029249228858335632)细思极恐。<br/>![AI资讯：对比2022年前后人类信息纯净度变化的逻辑示意图](https://source.hubtoday.app/images/2026/03/news_01kjxrpcc6esnrjjm6gpz1ekzz.avif)<br/><br/>![AI资讯：AI生成内容导致人类数字遗产被污染的观点截图](https://source.hubtoday.app/images/2026/03/news_01kjxrpt4besnrjjmfw8bpa90v.avif)<br/>
 
-3.  Get ready for a game-changer! A powerful 🚀 AI Agent that [operates Excel (AI News)](https://m.okjike.com/originalPosts/69a6e1c6c5a1d4e649c3fd8) has just burst onto the scene. It can complete complex **general ledger** tasks in just half an hour! Seriously, if you know a bit about spreadsheets, this thing could 🔥 **replace traditional accountants**. Global financial SaaS companies are seeing their stock prices plummet. The speed at which businesses can **cut costs and boost efficiency** is absolutely mind-blowing! 🤯<br/>![AI News: AI Agent Automates Excel General Ledger Processing Interface Display](https://source.hubtoday.app/images/2026/03/news_01kjv646p4esnrjjgwmpqz9zsj.avif)<br/>
+4. **大模型推理正沦为新石油。**
+推理🚀正在沦为[新时代石油（AI资讯）](https://x.com/thenanyu/status/2029234056186286519)资源。全球依赖却由**巨头垄断**(✧∀✧)严重。需投入🚀**巨额资本**与顶尖技术。这种商品🔥属性正在重塑AI market。竞争烈度⚡堪比当年太空探索。
 
-4.  Here's a thought-provoker: Is the core of reasoning actually an **optimization process** 🚀, rather than generation? **Autoregressive generation** seems to be hitting a bottleneck. A [hotly debated (AI News) energy-based model approach](https://logicalintelligence.com/kona-ebms-energy-based-models) is gaining traction. Check out the [original Reddit discussion (AI News)](https://www.reddit.com/r/MachineLearning/comments/1rjvyo4/d_if_reasoning_requires_optimization_rather_than/). Concerns are growing that **brute-force scaling** might not 💡 truly fix the hallucination problem.
+5. **AI时代打工人变智能体经理。**
+🔥未来职场要学会[管理智能体（AI资讯）](https://creatoreconomy.so/p/your-new-job-is-to-onboard-ai-agents)上岗。Linear展示(✧∀✧)智能体入职的实际案例。Ramp称不用🚀**Claude工具**就落后。员工复用**Factory核心技能**💡大幅提效。掌握[职场能力降维打击（AI资讯）](https://x.com/thenanyu/status/2029223012256674293)秘诀。
 
-5.  **Alibaba's Qwen** model is stealthily leading the open-source era ⚡! It has become the [domestic technology foundation (AI News)](https://x.com/dotey/status/2028927560973701325) for China, with 🤖 robot companies widely benefiting. Many manufacturers are quietly keeping the source code's origin under wraps 🤫. The reality is often 🔥 harsher than the PR fluff. Wild, right?<br/>![AI News: Qwen Large Model Underpins Multiple Domestic Tech Companies Diagram](https://source.hubtoday.app/images/2026/03/news_01kjv6496eesnrjjh2skhkh3zq.avif)<br/>
+6. **提示词其实就是业务逻辑。**
+别把**提示词**只当🚀配置字符串看待。提示词本质是**业务逻辑**(✧∀✧)核心。静态评测🔥会产生**虚假安全感**哦。[了解动态反馈环（AI资讯）](https://go.adaline.ai/bflXl9t)更关键。[观看斯坦福讲座（AI资讯）](https://go.adaline.ai/D9TmfoF)揭秘前沿。<br/>![AI资讯：斯坦福讲座中关于LLM评估与动态反馈循环架构图示](https://source.hubtoday.app/images/2026/03/news_01kjxrq4cyesnrjjmgbf6jnmgb.avif)<br/>
 
-6.  Heads up, X platform is cracking down hard 🚀 on [AI-generated war content (AI News)](https://x.com/dotey/status/2028879682590941629)! They're strictly prohibiting the publication of **AI war deepfakes** 🚫. First-time offenders will have their ad revenue paused for **ninety days**, and repeat offenders will face 🔥 **permanent disqualification**. This move is all about ensuring the **authenticity** ✨ of information during wartime, no compromises!
+7. **Seedance 2.0炸裂玄幻特效。**
+🔥这款[玄幻版特效（AI资讯）](https://x.com/gefei55/status/2029111701908652342)太帅了。**Seedance 2.0**令粒子🚀急速流转。(✧∀✧)墨色飞溅让文字剑气纵横。**动态张力**瞬间撕裂💡绝对黑暗。视觉质感已经彻底🔥拉满到顶。
 
-7.  **OpenClaw**, the personal AI assistant, is absolutely blowing up 🚀! [Check it out (AI News)](https://x.com/oran_ge/status/2028835849090318402) – its ⭐ Star count has already **surpassed React**! It's getting over **90 feature updates** 🔥 every single day. This just proves that 🤖 AI can seriously amplify our **imagination**!<br/>![AI News: OpenClaw Tops GitHub Trending Chart Statistical Graph](https://pbs.twimg.com/media/HCYjJT_W4AAQrSZ?format=jpg&name=orig)<br/>
+8. **资深工程师公开Claude Code秘籍。**
+前大厂佬🔥[这篇分享干货满满（AI资讯）](https://boristane.com/blog/how-i-use-claude-code/)。核心主张🚀**规划与执行严格分离**。必须深读(✧∀✧)代码库写研究文档。反复标注💡计划文档拒绝无脑写码。最后机械化🤖[执行任务提效省心（AI资讯）](https://x.com/shao__meng/status/2028998826699415561)。<br/>![AI资讯：工程师展示Claude Code深度研究与规划协作工作流图示](https://source.hubtoday.app/images/2026/03/news_01kjxrqmcvesnrjjms88rqphw1.avif)<br/>
 
 ---
 
-## **AI News Daily: More Channels**
+## **AI资讯日报多渠道**
 
-| 💬 **WeChat Official Account** | 📹 **Douyin (TikTok)** |
+| 💬 **微信公众号** | 📹 **抖音** |
 | --- | --- |
-| Official Account: Hexi 2077  |   [Self-Media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)|
-| ![WeChat Official Account](https://source.hubtoday.app/logo/wechatgzh_20260218215501_244.jpg) | ![Intelligence Station](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
+| 公众号：何夕2077  |   [自媒体账号](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)|
+| ![微信公众号](https://source.hubtoday.app/logo/wechatgzh_20260218215501_244.jpg) | ![情报站](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
